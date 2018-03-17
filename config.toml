@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "James Robbins"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -18,9 +18,6 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
-
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -50,21 +47,19 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "James Robbins"
+  role = "Marine mammal ecologist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "ORCA", url = "www.orcaweb.org.uk" }, {name= "Plymouth University', url = "www.plymouth.ac.uk"}, {name= "Marine Biodiversity Records", url= "https://mbr.biomedcentral.com/about/editorial-board"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "james.robbins@orcaweb.org.uk"
+  address = "Top floor, Brittany Ferries building, Wharf Road, Portsmouth, UK"
+  office_hours = "Monday - Friday 09:00 to 17:00.  Please contact for appointment"
+
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
